@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/week-1/docker/data_pgadmin/
+/week-1/docker/ny_taxi_postgres_data/
+/week-2/flows/02_gcp/data/
+week-2/flows/01_start/output.csv
